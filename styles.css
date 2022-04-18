@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style-type: none;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: bisque;
+}
+
+.pet {
+  width: 90%;
+}
+/* .page-container h2 {
+  text-align: center;
+  margin: auto;
+} */
+/* #pet {
+  text-align: center;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+} */
+
+.pet-content {
+  width: 600px;
+  margin: auto;
+  background-color: #fff;
+  height: 200px;
+  margin-top: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.photo {
+  width: 250px;
+  height: 100%;
+}
+
+.pet-img {
+  height: 100%;
+}
+
+.pet-info {
+  margin: 10px;
+  font-weight: bold;
+}
+/*# sourceMappingURL=styles.css.map */
